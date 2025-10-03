@@ -23,7 +23,7 @@ Esse é meu primeiro projeto, é uma ferramenta de macro para automatizar açõe
 
 ### Windows
 1. Acesse a [página de Releases](https://github.com/Ruanzinh/ruanzinhs-macro-tool/releases)
-2. Baixe o arquivo `Ruanzinh's Macro Tool.exe`
+2. Baixe o arquivo `Ruanzinhs-Macro-Tool.exe`
 3. Execute o programa
 4. Agora é só usar
 
