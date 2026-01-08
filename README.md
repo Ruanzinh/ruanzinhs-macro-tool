@@ -1,25 +1,25 @@
-# 🎮 Ruanzinh's Macro Tool
+# Ruanzinh's Macro Tool
 
 Esse é meu primeiro projeto, é uma ferramenta de macro para automatizar ações do mouse e teclado, desenvolvida em Python.
 
-## ✨ Funcionalidades
+## Funcionalidades
 
-- 🖱️ Suporte para Mouse:
+ Suporte para Mouse:
   - Auto Click (Botão esquerdo/direito)
   - Auto Hold (Manter pressionado)
   - Delay configurável entre clicks
 
-- ⌨️ Suporte para Teclado:
+- Suporte para Teclado:
   - Auto Click (Qualquer tecla)
   - Auto Hold (Manter pressionada)
   - Delay configurável entre pressionamentos
 
-- 🎯 Recursos:
+- Recursos:
   - Hotkeys personalizáveis
   - Compatível com Windows/Linux/MacOS
   - Controle preciso de delay
 
-## 🚀 Como Usar
+## Como Usar
 
 ### Windows
 1. Acesse a [página de Releases](https://github.com/Ruanzinh/ruanzinhs-macro-tool/releases)
@@ -44,7 +44,7 @@ pip install pynput
 python main.py
 ```
 
-## 📋 Instruções de Uso
+## Instruções de Uso
 
 ### Menu Principal:
 - Mouse: Configure macros para mouse
@@ -57,7 +57,7 @@ python main.py
 - Use a hotkey definida para ativar/desativar o macro
 - CTRL+C para parar a execução atual
 
-## ⚙️ Configuração
+## Configuração
 
 ### Mouse
 1. Escolha o botão (Esquerdo/Direito)
@@ -69,7 +69,7 @@ python main.py
 2. Selecione o modo (Auto Hold/Auto Click)
 3. Configure o delay (opcional)
 
-## 📝 Notas
+## Notas
 
 - O delay padrão é 0.05 segundos
 - Use pontos (não vírgulas) para valores decimais
